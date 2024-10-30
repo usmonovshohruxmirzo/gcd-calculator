@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+gcd_calculator.egg-info/PKG-INFO
+gcd_calculator.egg-info/SOURCES.txt
+gcd_calculator.egg-info/dependency_links.txt
+gcd_calculator.egg-info/top_level.txt
