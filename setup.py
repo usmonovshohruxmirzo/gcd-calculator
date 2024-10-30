@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gcd_calculator',
-    version='0.2.0',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[],
     author='Usmonov Shoxruxmirzo',
