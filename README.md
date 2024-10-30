@@ -1,7 +1,3 @@
-Here’s a complete documentation draft for your GCD Calculator package, including all essential sections:
-
----
-
 # GCD Calculator Documentation
 
 ## Overview
