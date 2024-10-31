@@ -48,7 +48,7 @@ def gcd(a: int, b: int) -> int:
 
 ### Example
 
-Here’s an additional example demonstrating the use of the `gcd` function:
+Here's an additional example demonstrating the use of the `gcd` function:
 
 ```python
 # Calculate GCD of two numbers

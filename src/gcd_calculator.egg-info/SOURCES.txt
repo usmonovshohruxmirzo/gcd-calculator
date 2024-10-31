@@ -7,3 +7,4 @@ src/gcd_calculator.egg-info/PKG-INFO
 src/gcd_calculator.egg-info/SOURCES.txt
 src/gcd_calculator.egg-info/dependency_links.txt
 src/gcd_calculator.egg-info/top_level.txt
+test/test.py
