@@ -79,3 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Email: [usmonovshohruxmirzo@gmail.com](mailto:usmonovshohruxmirzo@gmail.com)  
 GitHub: [webbro-software](https://github.com/webbro-software)
 
+---
+
+![PyPI Downloads](https://static.pepy.tech/badge/gcd-calculator)
+
